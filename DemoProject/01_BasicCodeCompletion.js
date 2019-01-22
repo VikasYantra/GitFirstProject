@@ -7,7 +7,7 @@
  * 
  * To activate internal ID code completion, place cursor inside the internal ID quote character--either single quote (') or double quote (") based on your preferred setting--and press Ctrl + Space.
  */
-
+//vikas
 function contextLookupExample1() {
 	//#1 Display the list of settings for the first parameter and the list of options for the second parameter (for FEATURE and PERMISSION only). 
 	nlapiGetContext().getSetting('PERMISSION', '');
